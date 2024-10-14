@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
+dev/ap-southeast-1/lambda-webhook/__pycache__/
+dev/ap-southeast-1/lambda-webhook/app/*.pyc
