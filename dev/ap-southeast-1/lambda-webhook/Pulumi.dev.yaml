@@ -1,0 +1,7 @@
+config:
+  aws:region: ap-southeast-1
+  aws:accessKey:
+    secure: AAABAEpH1yzR/Ole+uP9hME1f6/001z88BsB/QHXK+YCcNfhgLmtKX4FGw738YGyi+kk7w==
+  aws:secretKey:
+    secure: AAABAJDpvoxqTxSbHV12TFNeHnK0jC2SmaJYtCV8mdP2gwvo6g4k/+aPCmZrBue3clbsORcVvhvrTIb7FWuY9NFEze9oJPsg
+  lambda-webhook:awsRegion: ap-southeast-1
