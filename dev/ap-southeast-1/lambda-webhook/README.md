@@ -102,7 +102,6 @@ The application exposes the following endpoints:
 
 - GET /: Returns a welcome message.
 - GET /items/{item_id}: Retrieves an item by its ID.
-- GET /items?query={query}: Searches for items based on the provided query.
 
 ## Configuration
 You can configure the application by setting environment variables in your AWS Lambda settings or modifying the app.py file.
